@@ -1,0 +1,5 @@
+.env
+google-key.json
+.venv/
+backup/
+__pycache__/
